@@ -28,3 +28,5 @@
 	<a href="https://www.linkedin.com/in/gabriel-neryss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
 
 </div>
+
+![Snake animation](https://github.com/gabriel-nerys/gabrielnerys/blob/output/github-contribution-grid-snake.svg)
