@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gabriel Nerys
 
-- 🖥️ Hoje busco vaga na area de frontend
+- 🖥️ Em busca de um oportunidade na area de frontend
 - 🌵 Estudando JavaScript TypeScript
 - 😉 pronouns: ele/dele
 
