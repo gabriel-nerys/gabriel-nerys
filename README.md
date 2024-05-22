@@ -1,7 +1,7 @@
 # Olá! Eu sou o Gabriel Nerys
 
 - 🖥️ Em busca de um oportunidade na area de frontend
-- 🌵 Estudando JavaScript TypeScript
+- 🌵 Estudando JavaScript, TypeScript e next.js
 - 😉 pronouns: ele/dele
 
 <div>
